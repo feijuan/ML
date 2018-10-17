@@ -1,0 +1,4 @@
+data1.csv是PLA练习的测试数据
+testSet是疝气病症预测病马的死亡率的数据集
+iteration.py是迭代法的联系
+Logistic.py是逻辑回归梯度下降法的练习
